@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="home">TIC-TAC-TOE</string>
+    <string name="author">Developed by Andrew Trieu for the course CT70A9120 at LUT University</string>
+    <string name="github">https://github.com/AndrewTrieu/tictactoeapp</string>
+    <string name="start">START</string>
+    <string name="logo">Logo</string>
+    <string name="players">Players</string>
+    <string name="player1">Player 1 - X</string>
+    <string name="player2">Player 2 - O</string>
+    <string name="play">Play</string>
+    <string name="name">Player\'s name</string>
+    <string name="again">Home</string>
+    <string name="more">Reset</string>
+    <string name="record">RECORD</string>
+    <string name="title_activity_record">Record</string>
+    <string name="empty">History is empty</string>
+    <string name="suggest">Maybe play some games first?</string>
+    <string name="temp"> </string>
+    <string name="delete">Delete</string>
+    <string name="details">Match details</string>
+    <string name="time">Time:\u0020</string>
+    <string name="winner">Winner:\u0020</string>
+</resources>
